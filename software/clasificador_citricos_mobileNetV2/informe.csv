@@ -1,0 +1,21 @@
+Fecha,Imagen,Tipo,Calidad,Defectos,Porcentaje Defectos
+2025-03-08 16:48:50,pieza_20250308_164850.jpg,Pieza,Excelente,Manchas negras,0.4
+2025-03-08 16:49:22,pieza_20250308_164922.jpg,Pieza,Excelente,Ninguno,0.0
+2025-03-08 16:49:27,pieza_20250308_164927.jpg,Pieza,Excelente,Ninguno,0.0
+2025-03-08 16:50:09,pieza_20250308_165009.jpg,Pieza,Excelente,Ninguno,0.0
+"2025-03-11 21:27:07,pieza_20250311_212707.jpg,Pieza,Rechazada,""Manchas negras, Podredumbre general"",27.8"
+"2025-03-11 21:27:25,pieza_20250311_212725.jpg,Pieza,Rechazada,""Manchas negras, Podredumbre general"",28.4"
+2025-03-14 21:58:31,pieza_20250314_215831.jpg,Pieza,Aceptable,"Pudricion marron, Podredumbre general",5.0
+2025-03-14 22:02:13,pieza_20250314_220213.jpg,Pieza,Excelente,Podredumbre general,1.9
+2025-03-14 22:02:26,pieza_20250314_220226.jpg,Pieza,Aceptable,Podredumbre general,3.3
+2025-03-14 22:02:38,pieza_20250314_220238.jpg,Pieza,Aceptable,Podredumbre general,3.0
+2025-03-14 22:02:49,pieza_20250314_220249.jpg,Pieza,Excelente,Podredumbre general,1.4
+2025-03-14 22:03:16,pieza_20250314_220316.jpg,Pieza,Aceptable,Podredumbre general,2.9
+2025-03-14 22:03:30,pieza_20250314_220330.jpg,Pieza,Rechazada,"Pudricion marron, Podredumbre general",5.7
+2025-03-14 22:03:46,pieza_20250314_220346.jpg,Pieza,Aceptable,"Pudricion marron, Podredumbre general",4.4
+2025-03-14 22:03:54,pieza_20250314_220354.jpg,Pieza,Aceptable,"Pudricion marron, Podredumbre general",3.6
+2025-03-14 22:04:20,pieza_20250314_220420.jpg,Pieza,Aceptable,"Pudricion marron, Podredumbre general",2.3
+2025-03-14 22:04:42,pieza_20250314_220442.jpg,Pieza,Excelente,"Pudricion marron, Podredumbre general",1.1
+2025-03-14 22:04:59,pieza_20250314_220459.jpg,Pieza,Aceptable,"Pudricion marron, Podredumbre general",4.1
+2025-03-14 22:05:07,pieza_20250314_220507.jpg,Pieza,Excelente,Podredumbre general,1.0
+2025-03-14 22:05:26,pieza_20250314_220526.jpg,Pieza,Excelente,Podredumbre general,1.6
