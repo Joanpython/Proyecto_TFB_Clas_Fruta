@@ -1,4 +1,4 @@
-# Sistema de Clasificación de Frutas mediante Visión Artificial
+# Innovación en la Clasificación Automática de Cítricos
 
 Este repositorio contiene el código desarrollado como parte de mi tesis doctoral en [Universitat Carlemany].
 
