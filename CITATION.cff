@@ -1,21 +1,26 @@
-cff-version: 1.2.0
+cff-version: 1.3
 message: "Si utilizas este software, por favor cítalo como se indica a continuación."
 authors:
   - family-names: "Ruiz Verdú"
     given-names: "Joan"
-    orcid: "https://orcid.org/XXXX-XXXX-XXXX-XXXX"
+    orcid: "https://orcid.org/0009-0001-6315-4037"
 title: "Sistema de Clasificación de Frutas mediante Visión Artificial"
 version: 2.0.0
-date-released: 2025-02-23
+date-released: 2025-03-15
 url: "https://github.com/usuario/repositorio"
 preferred-citation:
   type: thesis
-  authors:
+  Directorate of TFB:
+    - family-name: "Molina"
+      given-names: "Julio"
+      orcid: "https://orcid.org/0009-0005-0448-8028"
+  Student:
     - family-names: "Ruiz Verdú"
       given-names: "Joan"
-      orcid: "https://orcid.org/XXXX-XXXX-XXXX-XXXX"
+      orcid: "https://orcid.org/0009-0001-6315-4037"
   title: "Desarrollo de un Sistema de Clasificación de Frutas mediante Técnicas de Visión Artificial"
   year: 2025
   institution:
-    name: "Universidad XXX"
-  thesis-type: "Doctoral dissertation"
+    name: "Universidad Carlemany"
+  thesis-type: "Bachelor dissertation"
+
